@@ -1428,7 +1428,7 @@ h3 {
 
 /* line 1, ../../Arafath/CL/CL October/220 Tasty Recipes/HTML/scss/_slider.scss */
 .slider_bg_1 {
-  background-image: url(../img/banner/banner.png);
+  background-image: url(../img/banner/linux-feature-image.jpg);
 }
 
 /* line 4, ../../Arafath/CL/CL October/220 Tasty Recipes/HTML/scss/_slider.scss */
@@ -2634,7 +2634,7 @@ h3 {
 
 /* line 186, ../../Arafath/CL/CL October/220 Tasty Recipes/HTML/scss/_footer.scss */
 .footer .copy-right_text {
-  padding-bottom: 150px;
+  padding-bottom: 20px;
   background: #000;
 }
 
@@ -2706,7 +2706,7 @@ h3 {
 
 /* line 1, ../../Arafath/CL/CL October/220 Tasty Recipes/HTML/scss/_bradcam.scss */
 .bradcam_bg_1 {
-  background-image: url(../img/banner/bradcam.png);
+  background-image: url(../img/banner/linux-feature-image.jpg);
 }
 
 /* line 4, ../../Arafath/CL/CL October/220 Tasty Recipes/HTML/scss/_bradcam.scss */
@@ -2744,7 +2744,7 @@ h3 {
 /* line 35, ../../Arafath/CL/CL October/220 Tasty Recipes/HTML/scss/_bradcam.scss */
 .bradcam_area h3 {
   font-size: 72px;
-  color: #fff;
+  color: #34cc56;
   font-weight: 400;
   text-transform: capitalize;
 }
@@ -4349,7 +4349,7 @@ h3 {
 @media (max-width: 767px) {
   /* line 104, ../../Arafath/CL/CL October/220 Tasty Recipes/HTML/scss/_recepie.scss */
   .recepie_videoes_area {
-    padding-top: 50px;
+    padding-top: 0px;
     padding-bottom: 30px;
   }
 }
@@ -4409,8 +4409,8 @@ h3 {
 
 /* line 139, ../../Arafath/CL/CL October/220 Tasty Recipes/HTML/scss/_recepie.scss */
 .recepie_videoes_area .recepie_info > p {
-  margin-top: 56px;
-  margin-bottom: 53px;
+  margin-top: 0px;
+  margin-bottom: 30px;
 }
 
 /* line 145, ../../Arafath/CL/CL October/220 Tasty Recipes/HTML/scss/_recepie.scss */
@@ -4450,7 +4450,7 @@ h3 {
 @media (max-width: 767px) {
   /* line 171, ../../Arafath/CL/CL October/220 Tasty Recipes/HTML/scss/_recepie.scss */
   .recepie_videoes_area .videos_thumb {
-    margin-top: 40px;
+    /* margin-top: 40px; */
   }
 }
 
@@ -4768,7 +4768,7 @@ h3 {
 @media (max-width: 767px) {
   /* line 363, ../../Arafath/CL/CL October/220 Tasty Recipes/HTML/scss/_recepie.scss */
   .recepie_header_area {
-    padding-top: 50px;
+    padding-top: 130px;
     padding-bottom: 50px;
   }
 }
